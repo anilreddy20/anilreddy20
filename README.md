@@ -12,7 +12,7 @@ Hi! My name is Anil kumar reddy 😄
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
+  <a href="[https://www.linkedin.com/in/stefan-topalovic-dev/](https://www.linkedin.com/in/bhushannagari-anil-kumar-reddy-8851191a0/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
